@@ -1,5 +1,5 @@
 """
-    http基本演示
+    第一种方案
 """
 from socket import *
 
